@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "grapesjs": "0.17.27",
+    "jquery": "^3.6.0",
     "vue": "^2.6.11"
   },
   "devDependencies": {
